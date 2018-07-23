@@ -1,0 +1,5 @@
+*.o
+*.app
+*.pdf
+main
+*.tree

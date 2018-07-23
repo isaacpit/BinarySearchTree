@@ -1,0 +1,15 @@
+echo 1p | ./main 
+echo 2p | ./main
+echo 3p | ./main
+
+
+
+echo 1r | ./main 
+echo 2r | ./main
+echo 3r | ./main
+
+
+
+echo 1l | ./main 
+echo 2l | ./main
+echo 3l | ./main
